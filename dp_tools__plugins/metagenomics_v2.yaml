@@ -62,7 +62,7 @@ Staging:
           Runsheet Column Name: 
             - {'name':'read1_path', 'index':0}
             - {'name':'read2_path', 'index':1, 'optional':true}
-          GLDS URL Mapping: False
+          GLDS URL Mapping: true
           Processing Usage: >-
             Location to the raw data fastq file. May be a url or local path.
           Example: 'https://genelab-data.ndc.nasa.gov/genelab/static/media/dataset/GLDS-194_rna...'
